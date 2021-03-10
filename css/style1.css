@@ -1,0 +1,62 @@
+<style>
+	body {
+	background-color:#F7F7F7;
+	}
+
+	.c_title{
+	background-color:#E6E6E6;
+	margin-top:3px;
+	padding-top:5px;
+	padding-bottom:3px;
+	padding-left:5px;
+	font-size: 11pt;
+	color: #990033;
+	}
+	.c_content {
+	background-color:#FFFFFF;
+	margin-top:3px;
+	padding-top:5px;
+	padding-bottom:3px;
+	padding-left:5px;
+	font-size: 11pt;
+	color: blue;
+	}
+
+	.c_button {
+	background: #e3e3db;
+	font-size:16px; 
+	color: #6633FF; 
+	padding: 6px 14px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #fff #d8d8d0 #d8d8d0 #fff;
+	text-decoration: none;
+	text-transform:uppercase;
+	font-weight:bold;
+	}
+
+	table{
+		width: 700px;
+		height: 200px;
+		background-color: pink;
+		border-collapse: collapse; 
+		margin: 0 auto; <!--意思是置中-->
+	}
+
+	td, th{
+		border: 1px  solid;
+		background-color: #E1FFFF;
+	}
+	.style1{
+		background-color: #00FFFF;
+	}
+	.t1{
+		width: 100px;
+	}
+	.t2{
+		width: 400px;
+	}
+	
+
+
+</style>
